@@ -1,5 +1,4 @@
-# Đồ án học phần Nhập môn An toàn thông tin
-## Đề tài: Phân tích và đánh giá an ninh mạng cho website bán hàng
+# Môn học: Lập Trình An Ninh Thông Tin
 
-### Thành viên thực hiện
-- Huỳnh Lam Nhân - 2387700037
+## Thành viên thực hiện
+- Nhan Huỳnh Lâm - 2387700037 - 23DATA1
